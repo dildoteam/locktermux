@@ -1,3 +1,5 @@
+<br><img src="https://images6.alphacoders.com/314/thumb-1920-314645.jpg"></img>
+
 # Login
 
 ## Description
@@ -11,33 +13,17 @@ You need git to clone this repository and python to run program
 if you have git and python installed you can skip line 2
 
 ```shell
-$ cd ~
-$ pkg install git python
-$ git clone https://github.com/Ublimjo/Termux-login.git
-$ cd Termux-login
-$ bash setup.sh
+apt update
+apt upgrade
+apt install python2
+apt install bash
+apt install git
+git clone https://github.com/dildoteam/locktermux
+cd Termux-login
+bash setup.sh
+set you password
 ```
 
 ## License
-
-MIT License
-
-Copyright (c) 2018 Ublim
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## TEAM ⭐
+<br><img src="https://3.bp.blogspot.com/-3dzL1CFGIuQ/WTUkKYtF5JI/AAAAAAAAAe0/zWqv6t0wO2cW9650nZj9KGLwkb27FnOrgCLcB/s1600/6.%2BWhite%2BCat%2Bhacker.......png"></img>
